@@ -2,6 +2,7 @@ Rainbow bow
 violet 
 indigo
 blue
+green
 yellow
 red
 
