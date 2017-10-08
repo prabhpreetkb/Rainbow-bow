@@ -1,0 +1,8 @@
+Rainbow bow
+violet 
+indigo
+blue
+yellow
+red
+
+These are rainbow colours.
