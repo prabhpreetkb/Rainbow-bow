@@ -6,6 +6,7 @@ green
 yellow
 orange
 red
+purple
 cream
 
 These are rainbow colours and unicorn.
