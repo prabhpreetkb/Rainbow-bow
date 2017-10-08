@@ -1,4 +1,4 @@
-Rainbow bow
+Rainbow bow and the unicorns
 violet 
 indigo
 blue
@@ -6,5 +6,6 @@ green
 yellow
 orange
 red
+cream
 
-These are rainbow colours.
+These are rainbow colours and unicorn.
