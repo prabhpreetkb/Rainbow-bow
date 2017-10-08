@@ -4,6 +4,7 @@ indigo
 blue
 green
 yellow
+orange
 red
 
 These are rainbow colours.
